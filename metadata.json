@@ -1,0 +1,6 @@
+{
+  "name": "3D Multiplayer Arcade Portal",
+  "description": "A 3D multiplayer arcade game hub with real-time matchmaking, global leaderboards, and 50 launchable games including Arena Legend and Grid Slither.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
